@@ -9,11 +9,11 @@ import brand_icon from '@/assets/brand_icon.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faTwitter, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-export const metadata = {
-  title: "Home",
-  description: "WGroup Enterprise delivers real estate, and corporate services tailored to help you grow.",
-};
+
+// export const metadata = {
+//   title: "Home",
+//   description: "WGroup Enterprise delivers real estate, and corporate services tailored to help you grow.",
+// };
 
 export default function HomePage() {
   return (
