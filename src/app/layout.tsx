@@ -25,12 +25,12 @@ const inter = Inter({
   display: "swap",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: {
-    template: "%s | W Group",
-    default: "W Group",
+    template: "%s | W Group Enterprise",
+    default: "W Group Enterprise",
   },
-  description: "The official site of W Group.",
+  description: "WGroup Enterprise official site",
 };
 
 
