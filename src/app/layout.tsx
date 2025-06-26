@@ -25,6 +25,7 @@ const inter = Inter({
   display: "swap",
 });
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export const metadata = {
   title: {
     template: "%s | W Group",
